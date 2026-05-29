@@ -1,0 +1,10 @@
+{
+  "model": "haiku",
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:news.ycombinator.com)",
+      "WebFetch(domain:lobste.rs)",
+      "mcp__news__save_news_item"
+    ]
+  }
+}
