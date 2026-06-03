@@ -2,16 +2,11 @@
 # requires-python = ">=3.12"
 # dependencies = [
 #     "claude-agent-sdk",
-#     "python-dotenv",
 # ]
 # ///
 
 import asyncio
 from pathlib import Path
-
-from dotenv import load_dotenv
-
-load_dotenv()
 
 from claude_agent_sdk import query, ClaudeAgentOptions, ResultMessage
 
