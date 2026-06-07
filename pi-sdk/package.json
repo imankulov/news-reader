@@ -1,0 +1,17 @@
+{
+  "name": "news-reader-pi-sdk",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "tsx scrape.ts"
+  },
+  "dependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "turndown": "^7.2.0",
+    "typebox": "^1.1.38"
+  },
+  "devDependencies": {
+    "@types/turndown": "^5.0.5",
+    "tsx": "^4.19.0"
+  }
+}
