@@ -1,0 +1,9 @@
+[project]
+name = "news-reader-smolagents"
+version = "0.1.0"
+description = "News reader using smolagents CodeAgent with sandboxed code execution"
+requires-python = ">=3.12"
+dependencies = [
+    "smolagents[blaxel]",
+    "litellm",
+]

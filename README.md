@@ -9,5 +9,6 @@ A companion repository for a series of blog posts about agentic workflows. Each 
 | [pi-dev](pi-dev/) | Pi.dev (extensions, custom system prompt) | [The Pi version](https://roman.pt/posts/pi-dev-version/) |
 | [pi-sdk](pi-sdk/) | Pi.dev SDK (programmatic, single file) | [The Pi SDK version](https://roman.pt/posts/pi-sdk-version/) |
 | [pydantic-ai](pydantic-ai/) | Pydantic AI (structured output, agent-as-tool) | [The Pydantic AI version](https://roman.pt/posts/pydantic-ai-version/) |
+| [smolagents](smolagents/) | smolagents CodeAgent (code generation, Jupyter sandbox) | [The smolagents version](https://roman.pt/posts/smolagents-version/) |
 
 See each directory's README for setup instructions.
